@@ -24,6 +24,12 @@
 
 * 添加60金属盾
 
+## 帝国建筑增强
+
+@emp_buffer.pack
+
+帝国皇宫
+
 ## 瘟疫增强
 
 @skv_plagues.pack
